@@ -1,0 +1,30 @@
+#background {
+    background: url("http://images.vanyakrasawchik.com/images/staff/y4f.jpg")
+}
+
+#logo {
+    width: 100px;
+    height: 100px;
+}
+
+#banner-1 {
+    width: 767px;
+    height: 145px;
+}
+
+#banner-2 {
+    width: 521px;
+    height: 147px;
+}
+
+#title {
+    font-family: sans-serif;
+    font-size: 30px;
+    color: white;
+}
+
+#copyright {
+    font-family: sans-serif;
+    font-size: 25px;
+    color: white;
+}
